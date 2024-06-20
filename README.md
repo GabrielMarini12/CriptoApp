@@ -29,7 +29,7 @@ Exibindo as modeas e suas características em tempo real
 # Características
 
 As principais características do aplicativo são:
-- Consumir uma Api de externa.
+- Consumir uma Api externa.
 - Exibir as características de cada moeda em tempo real.
 - Possibilidade de pesquisar pelo nome da moeda.
 - Ver detalhes de cada moeda.
